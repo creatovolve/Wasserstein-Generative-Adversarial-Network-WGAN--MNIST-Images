@@ -1,3 +1,9 @@
+<img width="28" height="28" alt="0" src="https://github.com/user-attachments/assets/09e5e9e9-da3a-42b0-94d8-959b1609d229" />
+<img width="28" height="28" alt="52" src="https://github.com/user-attachments/assets/b53e4fee-99e7-456d-91b7-70e6b668c00f" />
+<img width="28" height="28" alt="95" src="https://github.com/user-attachments/assets/1301e1d2-cd0f-45f2-bb9c-add19191f363" />
+<img width="28" height="28" alt="73" src="https://github.com/user-attachments/assets/a8a4847d-830d-4392-9e4f-84960354cdb0" />
+<img width="28" height="28" alt="75" src="https://github.com/user-attachments/assets/a7c641cd-3cf3-4e6c-be66-ec5c0b9aae07" />
+<img width="28" height="28" alt="98" src="https://github.com/user-attachments/assets/3431b461-5976-4dcd-9a1d-51710274641d" />
 # Wasserstein-Generative-Adversarial-Network-WGAN--MNIST-Images
 Wasserstein GAN for MNIST Image Generation  This repository contains an implementation of Wasserstein Generative Adversarial Network (WGAN) trained on the MNIST handwritten digits dataset. The model is implemented in PyTorch and demonstrates stable training of GANs using the Wasserstein distance with weight clipping.
 
